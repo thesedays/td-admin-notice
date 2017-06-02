@@ -1,0 +1,30 @@
+.agw-admin-notice-wrap {
+    margin: 2.75em 20px 0 2px;
+}
+.agw-admin-notice {
+    padding: 1em 1.25em;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+.agw-admin-notice p {
+    margin: 0;
+    font-size: 1em;
+}
+.agw-admin-notice-high,
+.agw-admin-notice-high a,
+.agw-admin-notice-medium,
+.agw-admin-notice-medium a,
+.agw-admin-notice-low,
+.agw-admin-notice-low a {
+    color: #fff;
+}
+.agw-admin-notice-high {
+    background-color: #dd3d36;
+}
+.agw-admin-notice-medium {
+    background-color: #ffba00;
+}
+.agw-admin-notice-low {
+    background-color: #7ad03a;
+}
